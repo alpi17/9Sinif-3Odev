@@ -35,9 +35,12 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/15-jClThhyBTgAcMsIH9ePTHrSFjoQrDn1jYa9JufjVw/edit#gid=0) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
+a) Denkleminizi **2,81E-03+1,84x+-1,26x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
+**CEVAP**:Hızın gittikçe azalması?
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+**CEVAP**:DEĞİLDİR.
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
+**CEVAP**:b ve c
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
 Bu sefer aynı cismin zaman-hız (ortalama hız) grafiğini çizeceksiniz. Bunun için *1.Bölümde* aldığımız sonuçları kullanacağız. Ortalama hızı bulmak için derste öğrendiğimiz ortalama hız formülünü (Delta x/ Delta t) kullanacağız. Google Sheet kullanarak hız-zaman grafiği nasıl çizildiğini anlamak için  [bu videoya](https://www.youtube.com/watch?v=67IsHRmcmfE&t) bakınız. Ortalama hız-zaman grafiğini çizilirken, ortalama hıza karşılık gelen zamanı nasıl belirleyeceksin? Bir andaki  ortalama hızı hesaplarken o noktadan önceki ve o noktadan sonraki (t,x) noktalarını kullanacaksın. Bu yüzden konum grafiğimde 11 veri noktam varken, hız-zaman grafiğinde veri noktam 9'a düştü. (İlk baştaki ve son baştaki noktalar için ortalama hızı hesaplayamam çünkü başlangıç noktasından önce ve bitiş noktasından sonraki (t,x) bilgilerine sahip değilim.)
@@ -51,6 +54,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
 
 3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
+**CEVAP**:İvme=-0,605*x+0,154
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
